@@ -38,8 +38,8 @@ we should include these in the tag.
 
 <script src='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
 Mapbox also provides their own CSS to use for the maps.We will need to include that also in the
-
 tag.
+
 Now to access the properties and methods of these APIs we will need an access token.
 
 
