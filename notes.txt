@@ -37,6 +37,7 @@ Mapbox also provides their own CSS to use for the maps.We will need to include t
 tag.
 Now to access the properties and methods of these APIs we will need an access token.
 
+
 Access tokens are a way to know which user is accessing the APIs. Access tokens are entry points to call any of the APIs that we want to use. To get the access token, we will have to first create a Mapbox account.
 
 create a mapbox account https://account.mapbox.com/auth/signin/?route-to=%22https://account.mapbox.com/%22
