@@ -73,3 +73,5 @@ The GeolocateControl can also have many options inside it. But we are going to u
 positionOptions: default: { enableHighAccuracy:false, timeout:6000 }
 
 trackUserLocation: default: false
+
+https://docs.mapbox.com/mapbox-gl-js/api/properties/
